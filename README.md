@@ -1,5 +1,4 @@
 # Web-scrapping
-:
 
 📊 JioMart Groceries Web Scraping & Data Analysis
 A Python project that scrapes grocery product details from JioMart, organizes the data, visualizes pricing trends, and exports results to an Excel file.
